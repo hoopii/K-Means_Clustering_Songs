@@ -33,3 +33,7 @@ Dataset collected from the Spotify API containing contains the audio features (t
 
 ## Assess the question: 
 Is K-Means a good method to create playlists? Would you stick with this algorithm moving forward, or explore other methods to create playlists?
+
+## Files in this repository
+- [Notebook with commented step by step code for this project](../main/K_Means_Playlist_5000_songs_for_GitHub.ipynb)
+- [Here you find the file with description of audiofeatures](../main/audiofeatures_description.pdf)
