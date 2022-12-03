@@ -14,9 +14,9 @@ Create initial prototype model that clusters 5000 songs based on audiofeatures f
 
 Dataset: 
 Dataset collected from the Spotify API containing contains the audio features (tempo, energy, danceability etc.) for a around 5.000 songs.
-[description of audiofeatures](../blob/main/audiofeatures_description.pdf)
+[file with description of audiofeatures](../main/audiofeatures_description.pdf)
 
-[here die Description zu audiofeatures verlinken und vielleicht auch Internetseite wo Dataset zu finden ist. 
+
 
 Skills / Methods
 Use a basic clustering algorithm such as K-Means to divide the dataset into a few clusters (which will become playlists). 
