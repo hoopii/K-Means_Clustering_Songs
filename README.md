@@ -1,6 +1,9 @@
 # Clustering Songs with K-Means
 Using K-Means Clustering to generate mood based playlists using audiofeatures from Spotify
 
+![grafik](https://user-images.githubusercontent.com/100354393/205442882-582eccee-bdc7-449d-8627-d81ad2e0f5e0.png)
+
+
 ## Use Case
 I am working as a Data Scientist for Moosic, which is is a little start up that creates curated playlists done by music experts and specialists in old and new trends. 
 The curated playlists all encapsulate a certain “mood” or “style”. My task is to use Data Science to add a degree of automatisation to the creation of playlists and to create an an initial prototype of a working model that clusters songs based on these audiofeatures.
