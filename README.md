@@ -15,6 +15,7 @@ Create initial prototype model that clusters 5000 songs based on audiofeatures f
 Dataset: 
 Dataset collected from the Spotify API containing contains the audio features (tempo, energy, danceability etc.) for a around 5.000 songs.
 [file with description of audiofeatures](../main/audiofeatures_description.pdf)
+[Spotify Website: Where to get the audiofeatures] (https://developer.spotify.com/discover/)
 
 
 
