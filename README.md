@@ -1,7 +1,7 @@
 # Clustering Songs with K-Means
 Using K-Means Clustering to generate mood based playlists using audiofeatures from Spotify
 
-![grafik](https://user-images.githubusercontent.com/100354393/205442954-c968a253-ace0-43d8-8a91-d8be3d26a908.png)
+![grafik](https://user-images.githubusercontent.com/100354393/205442973-f13c947c-b7f3-4038-a7ed-480e808f90fb.png)
 
 
 ## Use Case
