@@ -1,0 +1,4 @@
+to do K-Means Clustering for GitHub: 
+- better comment out code for heatmap plot  
+- go through code of PCA and make comments
+- PCA notebook: Maybe find some other visualizations?
