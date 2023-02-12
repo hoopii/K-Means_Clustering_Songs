@@ -18,7 +18,7 @@ Dataset collected from the Spotify API containing contains the audio features (t
 
 ## Skills / Methods
 - Use a basic clustering algorithm such as K-Means to divide the dataset into a few clusters (which will become playlists). 
-- Implementation in Python and sciki-learn (https://scikit-learn.org/stable/)
+- Implementation in Python and scikit-learn (https://scikit-learn.org/stable/)
 - visualization with matplotlib and seaborn. 
 - Data Handling mainly with pandas
 
