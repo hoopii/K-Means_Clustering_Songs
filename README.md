@@ -36,4 +36,4 @@ Is K-Means a good method to create playlists? Would you stick with this algorit
 
 ## Files in this repository
 - [Notebook with commented step by step code for this project](../main/K_Means_Playlist_5000_songs_for_GitHub.ipynb)
-- [Here you find the file with description of audiofeatures](../main/audiofeatures_description.pdf)
+- [Here you find the description of audiofeatures](../main/audiofeatures_description.pdf)
